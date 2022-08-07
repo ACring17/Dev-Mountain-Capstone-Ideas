@@ -1,0 +1,31 @@
+Idea 1.) An index of workouts for personal trainers and clients to reference
+      -Will allow the user to search for workouts based on body part they want to train.
+      -Allow users to save their favorite exercises.
+      -Allow users to create a workout plan based on exercises they select.
+      -Save to a calandar to go with workout plan.
+      -Reviews left by other users on how they like the exercise. 
+      
+Idea 2.) Festival finder for music, food and events near you. 
+      -Allow the user to search city/towns for local events(Farmers markets, music festivals, food fairs, etc...)
+      -Allows users to favorite an event and get notifications about the event.
+      -The user can search for specific events for more info.
+      -Add to a calandar to help plan trips.
+      -Share on social media to let others know what the user found. 
+      
+Idea 3.) A new music finder
+      -Allows the user to input their favorite genres
+      -Like their favorite artists and get recommendations for new bands/artists they may like.
+      -Allows users to add to their current playlists on spotify/apple music.
+      -Select different moods to currate recommendations 
+      
+Idea 4.) Recipe generator
+      -Database of recipes the user can search and use
+      -Using ingredients in their fridge, they can search to see what recipes they can make right away.
+      -Save and revisit recipes they like
+      -Can set to a calandar to help plan out monthly meals
+      
+Idea 5.) Pet friendly place finder
+      -Finds bars/restaurants parks that are dog friendly near by
+      -Allows user to search for particular type of place(Bar, park, restaurant)
+      -Save favorite places to go back and visit again.
+      -Be able to share on social media to let your other pet friends know about where to take their pet.
