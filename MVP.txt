@@ -1,0 +1,62 @@
+Top Two Ideas
+
+
+1.) Recipe generator
+      -Database of recipes the user can search and use
+      -Using ingredients in their fridge, they can search to see what recipes they can make right away.
+      -Save and revisit recipes they like
+      -Can set to a calandar to help plan out monthly meals
+      
+   Pitch: Create a wed application that allows users look at recipes that match what is in their pantry, fridge and pantry.
+   
+   MVP:
+- User log in
+
+- Users can save their food they own already.
+
+- Users can read recipes from database.
+
+- Users can add recipes to their personal recipe book.
+
+- Users can rate recipes
+
+- Users can leave reviews
+
+Future Features:
+
+- Users can add to their calandar so they can plan meals
+
+- Users can add images of their own creations
+
+- Users can change serving sizes
+
+
+
+Pet friendly place finder
+      -Finds bars/restaurants parks that are dog friendly near by
+      -Allows user to search for particular type of place(Bar, park, restaurant)
+      -Save favorite places to go back and visit again.
+      -Be able to share on social media to let your other pet friends know about where to take their pet.
+
+Pitch: Create a wed application that allows users to find pet friendly places.
+   
+   MVP:
+- User can look up places that are pet friendly.
+
+- Users can filter types of places they want to find.
+
+- Users can read descriptions of each business or place.
+
+- Users can add favorite places to a faveorite's list.
+
+- Users can log in.
+
+- Users can leave reviews.
+
+Future Features:
+
+- Users can look at a map of where they want to go. 
+
+- Users can add images of their pets at the places.
+
+- Users can post about meet ups or events for pets.
