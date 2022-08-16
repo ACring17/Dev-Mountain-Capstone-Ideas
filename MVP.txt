@@ -2,10 +2,6 @@ Top Two Ideas
 
 
 1.) Recipe generator
-      -Database of recipes the user can search and use
-      -Using ingredients in their fridge, they can search to see what recipes they can make right away.
-      -Save and revisit recipes they like
-      -Can set to a calandar to help plan out monthly meals
       
    Pitch: Create a wed application that allows users look at recipes that match what is in their pantry, fridge and pantry.
    
@@ -33,10 +29,6 @@ Future Features:
 
 
 Pet friendly place finder
-      -Finds bars/restaurants parks that are dog friendly near by
-      -Allows user to search for particular type of place(Bar, park, restaurant)
-      -Save favorite places to go back and visit again.
-      -Be able to share on social media to let your other pet friends know about where to take their pet.
 
 Pitch: Create a wed application that allows users to find pet friendly places.
    
