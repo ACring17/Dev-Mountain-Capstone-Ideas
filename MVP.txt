@@ -1,14 +1,12 @@
 Top Two Ideas
 
 
-1.) Recipe generator
+1.) Recipe Cookbook
       
-   Pitch: Create a wed application that allows users look at recipes that match what is in their pantry, fridge and pantry.
+   Pitch: Create a wed application that allows users to look at recipes that they can rate and refer back to.
    
    MVP:
 - User log in
-
-- Users can save their food they own already.
 
 - Users can read recipes from database.
 
@@ -19,6 +17,8 @@ Top Two Ideas
 - Users can leave reviews
 
 Future Features:
+
+- Users can input their ingredients and see what recipes they can make
 
 - Users can add to their calandar so they can plan meals
 
