@@ -1,20 +1,20 @@
 Top Two Ideas
 
 
-1.) Recipe Cookbook
+1.) *** Recipe Cookbook Database ***
       
-   Pitch: Create a wed application that allows users to look at recipes that they can rate and refer back to.
+   Pitch: Create a wed application that allows users to look at recipes that they can rate, refer back to, and leave notes/comments on what they would do different.
    
    MVP:
 - User log in
 
 - Users can read recipes from database.
 
-- Users can add recipes to their personal recipe book.
+- Users can add, update, and delete recipes to their personal recipe book.
 
 - Users can rate recipes
 
-- Users can leave reviews
+- Users can leave reviews/comments.
 
 Future Features:
 
